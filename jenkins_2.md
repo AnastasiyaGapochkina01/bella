@@ -1,3 +1,4 @@
+# Часть 1
 1) Создать репозиторий jenkins-php
 2) Создать в репозитории файлы
 - index.php
@@ -28,5 +29,10 @@ RUN a2enmod rewrite
 
 EXPOSE 80
 ```
+3) Подключить репозиторий к jenkins
+4) Написать pipeline, который будет собирать image и пушить его в docker hub
+# Часть 2
+1) Сделать форк или самостоятельную копию репозитория https://github.com/AnastasiyaGapochkina01/node-app
+2) Написать Dockerfile для приложения
 3) Подключить репозиторий к jenkins
 4) Написать pipeline, который будет собирать image и пушить его в docker hub
