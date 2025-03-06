@@ -1,4 +1,4 @@
-Дан репозиторий с тремя Dockerfile - https://github.com/AnastasiyaGapochkina01/jenkins_params_ex/tree/main.\
+Дан репозиторий с тремя Dockerfile - https://github.com/AnastasiyaGapochkina01/jenkins_params_ex \
 Написать пайплайн, который будет
 1) Собирать image на основе выбранного при запуске dockerfile
 2) Пушить собранный image в docker hub
