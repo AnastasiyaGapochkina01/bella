@@ -39,6 +39,11 @@ wget: /usr/local/bin/wget
 10) Распаковать архив netcat-0.7.1.tar.gz и перейти в директорию netcat-0.7.1
 11) Собрать из исходников netcat
 12) Установить из deb пакета утилиту memtester (https://packages.debian.org/bookworm/amd64/memtester/download)
+13) Выйти из контейнера и остановить его
+```
+exit
+docker compose down
+```
 # Часть 2 - работа с ФС
 1) Добавить к ВМ дополнительный диск
 2) Установить postgresql, убедиться что он запущен
