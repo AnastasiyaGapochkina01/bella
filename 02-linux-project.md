@@ -2,7 +2,7 @@
 - данные для подключения:
 - login: devops
 - pass: 0000
-- ip address: 
+- ip address: 89.169.175.57
 2) Удалить nginx
 3) Установить angie (https://en.angie.software/)
 - найти все процессы angie
