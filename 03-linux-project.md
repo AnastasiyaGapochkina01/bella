@@ -2,7 +2,7 @@
 1) Подключиться по ssh на выданную ВМ:
 - login: devops
 - pass: 0000
-- ip: coming-soon
+- ip: 89.169.160.83
 2) В директории /var/www создать папку projects и перейти в нее
 3) Создать внутри подпапки docs, scripts, backups
 4) Вывести список содержимого папки projects
