@@ -1,3 +1,5 @@
+https://boards.yandex.ru/whiteboard/?hash=eade720d65afb58ade7a395574c6408a
+
 # Установка
 ## Mariadb
 Приниципиальна версия 11.4. Ставим
